@@ -6,4 +6,4 @@ To try it:
     npm install -g @vue/cli
     npm install 
     cd VueApp
-    vue-cli-service serve
+    npm run serve
